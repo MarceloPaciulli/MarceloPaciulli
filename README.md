@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MarceloPaciulli
-- 👀 I’m interested in Python, Flask, FastAPI, MySQL, PostgreSQL, MongoDB, ReactJS, NodeJS, ExpressJS, Javascript, HTML, CSS, Docker, AWS and many more technologies! 
+- 👀 I’m interested in Python, SQL, Flask, FastAPI, MySQL, PostgreSQL, Oracle, MongoDB, ReactJS, NodeJS, ExpressJS, Javascript, HTML, CSS, Docker, AWS and many more technologies! 
 - 🌱 I’m currently learning everything I can
 - 💞️ I’m looking to collaborate on make life easier for people
 - 📫 How to reach me: marcelopaciulli@gmail.com
