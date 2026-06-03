@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MarceloPaciulli
-- 👀 I’m interested in Python, AWS, SQL, MySQL, MongoDB, Node.js, React.js, JavaScript, HTML, CSS, Docker and many more technologies! 
+- 👀 I’m interested in Python, AWS, AI, SQL, MySQL, MongoDB, Node.js, React.js, JavaScript, HTML, CSS, Docker and many more technologies! 
 - 🌱 I’m currently learning everything I can
 - 💞️ I’m looking to collaborate on make life easier for people
 - 📫 How to reach me: marcelopaciulli@gmail.com
