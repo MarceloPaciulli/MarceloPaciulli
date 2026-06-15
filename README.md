@@ -1,6 +1,6 @@
 # Marcelo Paciulli
 
-Backend Engineer | Python | AWS | Serverless | Data & APIs | AI systems
+Senior Backend Engineer | Python & AWS | Serverless Architecture | Distributed & Event-Driven Systems | AI-Powered Backends
 
 ---
 
